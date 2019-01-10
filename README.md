@@ -3,20 +3,20 @@ Alat untuk mengubah tampilan depan termux atau bilah alat termux menjadi lebih k
 bahan2 nya adalah:
 
 
-$ apt update && apt upgrade
-$ pkg install figlet
-$ pkg install lolcat
-$ pkg install python2
-$ pkg install bash
+#$ apt update && apt upgrade
+#$ pkg install figlet
+#$ pkg install lolcat
+#$ pkg install python2
+#$ pkg install bash
 
 jika bahan-bahan di atas sudah terinstall kalian ketikan eksekusi caranya.
 caranya adalah:
 
-$ pkg install git
-$ git clone https://github.com/Rusmana-ID/home-termux
-$ cd home-termux
-$ ls
-$ python2 run.py
+#$ pkg install git
+#$ git clone https://github.com/Rusmana-ID/home-termux
+#$ cd home-termux
+#$ ls
+#$ python2 run.py
 
 tunggu prosess nya sampai selesai.
 jika sudah selesai langkah selanjutnya adalah nanti di termux nya akan muncul tulisan "ketikan Ctrl +d"
